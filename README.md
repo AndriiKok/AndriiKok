@@ -1,7 +1,7 @@
 ### <div align="center">I'm Andrii, the all days long freelance JS developer and Dev Ops from Ukraine</div>  
   
 
-- 🔭 I’m currently working on development operations process in several software product companies  
+- 🔭 I’m currently working on product development and operation processes in several software product companies  
   
 
 - 😍 JS is my only love, thanks my wife can't see it  
