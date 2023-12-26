@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on product development and operation processes in several software product companies  
   
 
-- 😍 JS is my only love, thanks my wife can't see it  
+- 😍 JS is my only love, hope my wife won't see it  
   
 
 - ❓ Feel free asking me about any skill from set below  
