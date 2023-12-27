@@ -11,10 +11,9 @@
   
 
 - ⚡ Currently I'm preparing for "VMware Certified - Cloud Infrastructure Administrator"  
-  
-
 <br/>  
 
+##
 
 ### My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -65,6 +64,7 @@
 
 <br/>  
 
+##
 
 ### Connect with me  
 <div align="center">
