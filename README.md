@@ -1,4 +1,4 @@
-### <div align="left">I'm Andrii, the all days long freelance JS developer and Dev Ops from Ukraine</div>  
+### <div align="left">The all days long freelance JS developer and Dev Ops from Ukraine</div>  
   
 
 - 🔭 I’m currently working on product development and operation processes in several software product companies  
